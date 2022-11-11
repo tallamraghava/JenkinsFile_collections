@@ -1,1 +1,1 @@
-# JenkinsFile_collections
+# JenkinsFile_templates
